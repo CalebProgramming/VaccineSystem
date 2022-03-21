@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VaccineSystem.iml" filepath="$PROJECT_DIR$/.idea/VaccineSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqljdbc_9.4/sqljdbc_9.4.iml" filepath="$PROJECT_DIR$/sqljdbc_9.4/sqljdbc_9.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vaccine-scheduler-java-main/vaccine-scheduler-java-main.iml" filepath="$PROJECT_DIR$/vaccine-scheduler-java-main/vaccine-scheduler-java-main.iml" />
+    </modules>
+  </component>
+</project>
